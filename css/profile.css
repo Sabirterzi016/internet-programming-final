@@ -1,0 +1,250 @@
+
+*{
+    list-style-type: none;
+  }
+  /* Top-bar kısmının css özellikleri */
+  .top-bar {
+      border-style: none;
+      height: 30px;
+      background-color: #b5976f83 /*rgb(223, 230, 237)*/;
+      padding-left: 80px;
+      vertical-align: middle;
+      width: 100%;
+  }
+  .top1 {
+      font-size: 20px;
+      vertical-align: middle;
+      font-style: italic;
+  }
+  
+  
+  
+  /*Head nav-bar kısmının özellikleri*/
+  #nav-bar{
+    padding: 25px 0px 0px 15%;
+  }
+  #dip{
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(15, 15, 184);
+   }
+  #nav-home{
+    padding-left: 8%;
+    font-size: 21px;
+  }
+  #giris{
+    padding-right: 23%;
+    height: 20px;
+  }
+  #girisa{
+    margin-top: -23px;
+    color: black;
+  }
+  #cikis a{
+    color: red;
+    font-weight: 700;
+  }
+  .glyphicon{
+    color: red;
+  }
+  .nav-item{
+    padding-left: 2%;
+  }
+  #giris li a:hover:not(.active) {
+    background-color: rgba(0, 0, 0, 0);
+    height: 0px;
+  }
+
+
+
+/*articleeee*/
+  #articlep{
+    height: 120%;
+  }
+  .article-head{
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+  }
+  #carouselExampleIndicators{
+    position: relative;
+    float: inherit;
+    width: 40%;
+    margin: 2% 0% 0% 16%;
+  }
+  #btn{
+    margin: -30% 0% 0% 64%;
+    position: relative;
+    line-height: 30px;
+  }
+  #firstbtn{
+    background-color: rgb(0, 0, 187);
+    width: 350px;
+    height: 140px;
+    border-radius: 30px;
+  }
+  #firsta{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 40px;
+  }
+  #firstb{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 40px;
+    margin-top: -10%;
+  }
+  #firstc{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 40px;
+    margin-top: -10%;
+  }
+  #afirst{
+    margin: -5px 0% 0% 0%;
+  }
+  #first11{
+    margin: 2% 0% 0% 0%;
+  }
+  #secondbtn{
+    background-color: rgb(0, 0, 187);
+    width: 350px;
+    height: 140px;
+    border-radius: 30px;
+    margin-top: 60px;
+  }
+  #secondb{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+  }
+  #jsoon{
+    margin-left: 50px;
+    padding-left: 50%;
+  }
+
+  .cs{
+    margin-left: 50px;
+  }
+
+  #dvz{
+    width: 200px;
+    margin-left: 300px;
+  }
+  #dvz1{
+    margin: -180px 0px 50px 600px;
+    width: 200px;
+  }
+
+/* Footer css*/
+.footer {
+    background-color: rgba(42, 36, 27, 0.817);
+    height: 460px;
+    position: relative;
+}
+.iletisim {
+  border-style: solid;
+  background-color: #708090b6;
+  height: 14%;
+  margin: 0;
+  padding: 2px;
+  overflow: hidden;
+  position:sticky;
+  top:0px;
+  padding-left: 13.5%;
+}
+.iletisim ul {
+  width: 43%;
+}
+.iletisim li {
+    float: left;
+    border-right:1px solid rgba(187, 187, 187, 0.595);
+}
+.irtbt li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: large;
+  padding: 4px 18px;
+  text-decoration: none;
+}
+.icons {
+  float: right;
+  padding-left: 9.5%;
+  vertical-align: middle;
+}
+.icon a {
+  display: block;
+  color: white;
+  padding: 0px 5px;
+}
+.iletisim .social a:hover:not(.active) {
+  background-color: rgba(17, 17, 17, 0.558);
+}
+.iletisim .social .active {
+  background-color: #708090; /*#4CAF50*/
+}
+.iletisim2 {
+  border-style: solid;
+  height: 20%;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  position:sticky;
+  top:0px;
+  padding-left: 13.5%;
+}
+.iletisim2 ul {
+  width: 37%;
+  width: 500%;
+}
+.iletisim2 li {
+  float: left;
+  border-right:1px solid rgba(187, 187, 187, 0.595);
+}
+#iltsm {
+  border-right:none;
+}
+.iletisim2 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: large;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.iletisim2 li a:hover:not(.active) {
+  background-color: rgba(17, 17, 17, 0.232);
+}
+.iletisim2 .active {
+  background-color: #708090; /*#4CAF50*/
+}
+.duyuru {
+  width: 85.6%;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  padding-left: 14%;
+  float: left;
+}
+.duyuru-baslik {
+  color: rgba(127, 255, 212, 0.694);
+  text-align: center;
+}
+.footer-alt2{
+  margin-top: 12.6%;
+  background-color: rgba(0, 0, 0, 0.53);
+  height: 33px;
+  position: relative;
+}
+.alt2p{
+  color: white;
+  text-align: center;
+  line-height: 31px;
+  margin-left: 30%;
+  width: 700px;
+}
+
+

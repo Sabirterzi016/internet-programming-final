@@ -1,0 +1,42 @@
+ <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2143_20221026134828.jpeg/format:webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2121_20221031121050.png/format:webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2119_20221027174108.jpeg/format:webp" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>           
+        </div>
+        <div class="right-buttons">
+            <div class="btn-first">
+                <a class="btn-a" href="/tr-tr/Sayfalar/nasil-hesap-acabilirim.aspx">
+                    Nasıl Hesap Açabilirim?</a>
+            </div>
+            <div class="btn-secondary">
+                <a class="btn-b" href="https://www.youtube.com/user/isyatirim?sub_confirmation=1" target="_blank">
+                    <pre>Piyasa yorumlarını 
+                        izlemek için Youtube 
+                        kanalımıza abone olun!</pre></a>
+            </div>

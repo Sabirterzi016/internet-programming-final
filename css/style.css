@@ -1,0 +1,341 @@
+
+*{
+  list-style-type: none;
+}
+/* Top-bar kısmının css özellikleri */
+.top-bar {
+    border-style: none;
+    height: 30px;
+    background-color: #b5976f83 /*rgb(223, 230, 237)*/;
+    padding-left: 80px;
+    vertical-align: middle;
+    width: 100%;
+}
+.top1 {
+    font-size: 20px;
+    vertical-align: middle;
+    font-style: italic;
+}
+
+
+
+/*Head nav-bar kısmının özellikleri*/
+#nav-bar{
+  padding: 25px 0px 0px 15%;
+}
+#dip{
+  font-size: 26px;
+  font-weight: bold;
+  color: rgb(15, 15, 184);
+ }
+#nav-home{
+  padding-left: 8%;
+  font-size: 21px;
+}
+#giris{
+  padding-right: 23%;
+}
+.nav-item{
+  padding-left: 2%;
+}
+
+
+
+
+
+
+
+  /* Article(içerik) kısmının css özellikleri */
+.article {
+    background-color: none;
+    height: 100%;
+}
+#banner{
+  float: right;
+  margin: 3% 16% 0px 0%;
+  width: 25%;
+  position: relative;
+}
+#p1{
+  color: rgb(255, 255, 255);
+  float: left;
+  margin: 4% 0% 0% 16.5%;
+  width: 30%;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+#p2{
+  font-size: 28px;
+  margin: 1% 0% 0% 17%;
+}
+#a1{
+  font-weight: bold;
+}
+#a2{
+  color: black;
+}
+.table{
+  margin: -2% 0% 0% 0%;
+}
+#li1{
+  width: 12%;
+  float: left;
+  margin: 1% 0% 0% 16%;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+#li2{
+  width: 22%;
+  float: right;
+  margin: 1% 49% 0% 0%;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+#formid1{
+  padding: 0.5% 2% 0% 16%;
+  font-size: 18px;
+}
+#formid{
+  padding: 0.5% 0% 0% 16%;
+  font-size: 18px;
+}
+#form-pdf{
+  float: left;
+  margin: -1% 1% 0% 0%;
+}
+#hr0{
+  color: black;
+  margin-left: 15%;
+  width: 33%;
+  font-weight: bold;
+}
+#hr1{
+  width: 26%;
+  margin-left: 15%;
+}
+.article-head{
+  margin: 0% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(255, 255, 255);
+}
+.article-body{
+  height: 380px;
+  width: 100%;
+  margin: 3% 0% 3% 0%;
+  border-style: solid;
+  border-width: 2px;
+  background-color: rgb(52, 52, 70);
+  position: relative;
+}
+#carouselExampleIndicators{
+  position: relative;
+  float: inherit;
+  width: 40%;
+  margin: 2% 0% 0% 16%;
+}
+#btn{
+  margin: -30% 0% 0% 64%;
+  position: relative;
+  line-height: 30px;
+}
+#firstbtn{
+  background-color: rgb(0, 0, 187);
+  width: 350px;
+  height: 140px;
+  border-radius: 30px;
+
+}
+#firsta{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  line-height: 40px;
+}
+#firstb{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  line-height: 40px;
+  margin-top: -10%;
+}
+#firstc{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  line-height: 40px;
+  margin-top: -10%;
+}
+#afirst{
+  margin: -5px 0% 0% 0%;
+}
+#first11{
+  margin: 2% 0% 0% 0%;
+}
+#secondbtn{
+  background-color: rgb(0, 0, 187);
+  width: 350px;
+  height: 140px;
+  border-radius: 30px;
+  margin-top: 60px;
+}
+#secondb{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+}
+.acanda{
+  float: right;
+  border-color: black;
+  background-color: rgb(190, 194, 194);
+  border-width: 5px;
+  width: 30%;
+  height: 708.2px;
+  margin: -38% 16% 0% 0%;
+}
+#banner2{
+  margin-top: -9px;
+  width: 560px;
+}
+#liyç{
+  float: left;
+  margin: 0% 7% 0% 1.8%;
+}
+#acnn{
+  margin-left: 5%;
+}
+.acnd-bslk{
+  font-size: 20px;
+  margin-top: 4%;
+}
+#hr-acan{
+  border-color: black;
+  border-width: 2px;
+  font-weight: bold;  
+  margin-top: -1%;
+}
+#aicrkbslk{
+  font-size: 18px;
+  font-weight: bold;
+  margin: 6% 0% 1% 2%;
+}
+#aicrk{
+  font-size: 16px;
+}
+#trh{
+  border-radius: 60px;
+  width: 11%;
+  float: left;
+  margin: -1.5% 3% 0% 0%; 
+}
+
+/* Footer css*/
+.footer {
+    background-color: rgba(42, 36, 27, 0.817);
+    height: 460px;
+    position: relative;
+}
+.iletisim {
+  border-style: solid;
+  background-color: #708090b6;
+  height: 14%;
+  margin: 0;
+  padding: 2px;
+  overflow: hidden;
+  position:sticky;
+  top:0px;
+  padding-left: 13.5%;
+}
+.iletisim ul {
+  width: 43%;
+}
+.iletisim li {
+    float: left;
+    border-right:1px solid rgba(187, 187, 187, 0.595);
+}
+.irtbt li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: large;
+  padding: 4px 18px;
+  text-decoration: none;
+}
+.icons {
+  float: right;
+  padding-left: 9.5%;
+  vertical-align: middle;
+}
+.icon a {
+  display: block;
+  color: white;
+  padding: 0px 5px;
+}
+.iletisim .social a:hover:not(.active) {
+  background-color: rgba(17, 17, 17, 0.558);
+}
+.iletisim .social .active {
+  background-color: #708090; /*#4CAF50*/
+}
+.iletisim2 {
+  border-style: solid;
+  height: 20%;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  position:sticky;
+  top:0px;
+  padding-left: 13.5%;
+}
+.iletisim2 ul {
+  width: 37%;
+  width: 500%;
+}
+.iletisim2 li {
+  float: left;
+  border-right:1px solid rgba(187, 187, 187, 0.595);
+}
+#iltsm {
+  border-right:none;
+}
+.iletisim2 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: large;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.iletisim2 li a:hover:not(.active) {
+  background-color: rgba(17, 17, 17, 0.232);
+}
+.iletisim2 .active {
+  background-color: #708090; /*#4CAF50*/
+}
+.duyuru {
+  width: 85.6%;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  padding-left: 14%;
+  float: left;
+}
+.duyuru-baslik {
+  color: rgba(127, 255, 212, 0.694);
+  text-align: center;
+}
+.footer-alt2{
+  margin-top: 12.6%;
+  background-color: rgba(0, 0, 0, 0.53);
+  height: 33px;
+  position: relative;
+}
+.alt2p{
+  color: white;
+  text-align: center;
+  line-height: 31px;
+  margin-left: 30%;
+  width: 700px;
+}
+
+

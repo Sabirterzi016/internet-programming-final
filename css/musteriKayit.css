@@ -1,0 +1,254 @@
+
+*{
+    list-style-type: none;
+  }
+  /* Top-bar kısmının css özellikleri */
+  .top-bar {
+      border-style: none;
+      height: 30px;
+      background-color: #b5976f83 /*rgb(223, 230, 237)*/;
+      padding-left: 80px;
+      vertical-align: middle;
+      width: 100%;
+  }
+  .top1 {
+      font-size: 20px;
+      vertical-align: middle;
+      font-style: italic;
+  }
+  
+  
+  
+  /*Head nav-bar kısmının özellikleri*/
+  #nav-bar{
+    padding: 25px 0px 0px 15%;
+  }
+  #dip{
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(15, 15, 184);
+   }
+  #nav-home{
+    padding-left: 8%;
+    font-size: 21px;
+  }
+  #giris{
+    padding-right: 23%;
+  }
+  .nav-item{
+    padding-left: 2%;
+  }
+
+
+
+  @import url('https;//fonts.googleapis.com/css?family=Josefin+Sans');
+  *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      outline: none;
+      text-decoration: none;
+      font-family: 'Josefin Sans', sans-serif;
+  }
+ 
+  .musterikayt{
+    height: 795px;
+    margin-top: -50px;
+  }
+  #bck{
+    background-image: url("https://i.finansgundem.com/1/1360/800//files/2022/12/14/1709080/1709080.jpg?v=1671694682");
+    background-color: tomato; /* Görsel Çalışmassa Arkaplan Rengi */
+    background-position: center; /* Görseli Ortala */
+    background-repeat: no-repeat; /* Resmi tekrarlama */
+    background-size: cover; /* resmi ekranı kaplayacak hale getir. */
+  }
+  .wrapper{
+      max-width: 350px;
+      width: 100%;
+      height: auto;
+      background: rgba(228, 228, 228, 0.466);
+      padding: 60px 45px;
+      position: relative;
+      top: 55%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 20px;
+  }
+  .wrapper .title{
+      margin-bottom: 20px;
+      margin-left: -69px;
+      text-align: center;
+      font-size: 36px;
+      width: 400px;
+      color: rgba(165, 42, 42, 0.719) /*#3aaf9f*/;
+      font-weight: bolder;
+      font-family: 'Courier New', Courier;
+      font-size: 30px;
+  }
+  .wrapper .form .input_field{
+      position: relative;
+      margin-bottom: 10px;
+  }
+  .wrapper .form .input_field .input{
+      width: 100%;
+      padding: 12px;
+      padding-left: 30px;
+      border: none;
+      background: #eeeeee;
+      border-radius: 10px;
+
+  }
+  .wrapper .form .btn{
+      width: 70%;
+      margin: 20px auto 0;
+      background:  rgba(165, 42, 42, 0.719)/*#3aaf9f*/;
+      padding: 12px;
+      margin-left: 40px;
+      text-align: center;
+      font-weight: bold;
+      font-family: 'Courier New', Courier;
+      color: white;
+      border-radius: 25px;
+  }
+  .wrapper .form .btn a{
+      color: #fff;
+  }
+  .wrapper .form .input_field i{
+      position: absolute;
+      top: 15px;
+      left: 10px;
+      color: #1d2120;
+      font-size: 14px;
+  }
+  
+  ::-webkit-input-placeholder{
+      color: #848484;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  /* Footer css*/
+.footer {
+    background-color: rgba(42, 36, 27, 0.817);
+    height: 460px;
+    position: relative;
+}
+.iletisim {
+  border-style: solid;
+  background-color: #708090b6;
+  height: 14%;
+  margin: 0;
+  padding: 2px;
+  overflow: hidden;
+  position:sticky;
+  top:0px;
+  padding-left: 13.5%;
+}
+.iletisim ul {
+  width: 43%;
+}
+.iletisim li {
+    float: left;
+    border-right:1px solid rgba(187, 187, 187, 0.595);
+}
+.irtbt li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: large;
+  padding: 4px 18px;
+  text-decoration: none;
+}
+.icons {
+  float: right;
+  padding-left: 9.5%;
+  vertical-align: middle;
+}
+.icon a {
+  display: block;
+  color: white;
+  padding: 0px 5px;
+}
+.iletisim .social a:hover:not(.active) {
+  background-color: rgba(17, 17, 17, 0.558);
+}
+.iletisim .social .active {
+  background-color: #708090; /*#4CAF50*/
+}
+.iletisim2 {
+  border-style: solid;
+  height: 20%;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  position:sticky;
+  top:0px;
+  padding-left: 13.5%;
+}
+.iletisim2 ul {
+  width: 37%;
+  width: 500%;
+}
+.iletisim2 li {
+  float: left;
+  border-right:1px solid rgba(187, 187, 187, 0.595);
+}
+#iltsm {
+  border-right:none;
+}
+.iletisim2 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: large;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.iletisim2 li a:hover:not(.active) {
+  background-color: rgba(17, 17, 17, 0.232);
+}
+.iletisim2 .active {
+  background-color: #708090; /*#4CAF50*/
+}
+.duyuru {
+  width: 85.6%;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  padding-left: 14%;
+  float: left;
+}
+.duyuru-baslik {
+  color: rgba(127, 255, 212, 0.694);
+  text-align: center;
+}
+.footer-alt2{
+  margin-top: 12.6%;
+  background-color: rgba(0, 0, 0, 0.53);
+  height: 33px;
+  position: relative;
+}
+.alt2p{
+  color: white;
+  text-align: center;
+  line-height: 31px;
+  margin-left: 30%;
+  width: 700px;
+}
+
+body
+{
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}

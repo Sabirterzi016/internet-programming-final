@@ -1,0 +1,126 @@
+<UyariSet>
+<Table>
+<SeriNo>22010595</SeriNo>
+<eskiyeni>y</eskiyeni>
+<ihbarTipi>1</ihbarTipi>
+<ihbarT>Meteorolojik Uyarı</ihbarT>
+<merkez>Meteoroloji Genel Müdürlüğü Analiz ve Tahmin Merkezi</merkez>
+<IPno>192.168.20.118</IPno>
+<hazirlayan>B EKİBİ</hazirlayan>
+<ihbarNo>595</ihbarNo>
+<ihbarKodu/>
+<yil>22</yil>
+<ay>12</ay>
+<gun>24</gun>
+<kayitTarih>2212241534</kayitTarih>
+<basTarih>202212241530</basTarih>
+<sonTarih>202212261800</sonTarih>
+<GenelBaslik>Batı Karadeniz’in Yükseklerinde Kuvvetli Kar Yağışları Bekleniyor!</GenelBaslik>
+<hadiseC>3</hadiseC>
+<hadiseCinsi>Kar Yağışı</hadiseCinsi>
+<hadiseSiddeti>Kuvvetli Kar</hadiseSiddeti>
+<hadiseYer>Yapılan son değerlendirmelere göre; 25.12.2022 Pazar günü sabah saatlerinden itibaren Batı Karadeniz’de görülecek yağışların, Zonguldak, Düzce, Karabük, Bartın, Bolu’nun kuzeyi ile Kastamonu’nun kuzeyinde 800-900 metre üzeri yüksek kesimlerde kuvvetli karla karışık yağmur ve kar şeklinde olması bekleniyor. Pazartesi akşam saatlerinde etkisini kaybetmesi beklenen kar yağışlarıyla birlikte ulaşımda aksamlar, buzlanma, tipi gibi olumsuzluklara karşı dikkatli ve tedbirli olunmalıdır. </hadiseYer>
+<hadiseZaman>25.12.2022 09:00-26.12.2022 18:00</hadiseZaman>
+<riskler>Ulaşımda Aksamalar - Buzlanma</riskler>
+<hadiseSinif>Kar Yoğunluğu Sınıflandırması*# Hafif Kar* 1–3 cm# Orta Kuvvette Kar* 3–10 cm# Kuvvetli Kar* 10–20 cm# Yoğun Kar* 20 cm ve üzeri</hadiseSinif>
+<linkler><a target="new" href="http://mgm.gov.tr/site/yardim2.aspx?=DON">Don Tehlikesi ve Korunma Yöntemleri</a></linkler>
+<GenelDurum/>
+<ekDosyaUzanti>14</ekDosyaUzanti>
+<guncel>true</guncel>
+<guncel_no>0</guncel_no>
+<id>11813</id>
+</Table>
+<Table>
+<SeriNo>22040596</SeriNo>
+<eskiyeni>y</eskiyeni>
+<ihbarTipi>4</ihbarTipi>
+<ihbarT>Denizlere Ait Meteorolojik Uyarı</ihbarT>
+<merkez>Meteoroloji Genel Müdürlüğü Analiz ve Tahmin Merkezi</merkez>
+<IPno>192.168.20.21</IPno>
+<hazirlayan>C ekibi</hazirlayan>
+<ihbarNo>596</ihbarNo>
+<ihbarKodu/>
+<yil>22</yil>
+<ay>12</ay>
+<gun>25</gun>
+<kayitTarih>2212251234</kayitTarih>
+<basTarih>202212251235</basTarih>
+<sonTarih>202212270300</sonTarih>
+<GenelBaslik>Denizlerimizde (Batı ve Orta Akdeniz) Fırtına Bekleniyor!</GenelBaslik>
+<hadiseC>5</hadiseC>
+<hadiseCinsi>Fırtına</hadiseCinsi>
+<hadiseSiddeti>Fırtına</hadiseSiddeti>
+<hadiseYer> Rüzgarın, Batı Akdeniz’de (Antalya Körfezi) yarın (Pazartesi) günün ilk saatlerinden itibaren; Orta Akdeniz’de (Anamur-Silifke arası) yarın (Pazartesi) sabah saatlerinden itibaren kuzeyli yönlerden 6 ila 8 kuvvetinde (50-75 km/sa) fırtına şeklinde eseceği tahmin edilmektedir. Fırtınanın, Batı Akdeniz’de yarın (Pazartesi) akşam saatlerinden sonra; Orta Akdeniz’de Salı, günün ilk saatlerinde etkisini kaybedeceği beklenmektedir.</hadiseYer>
+<hadiseZaman>26.12.2022 00:00-27.12.2022 03:00</hadiseZaman>
+<riskler>Ulaşımda Aksamalar</riskler>
+<hadiseSinif>Rüzgar Hızı Sınıflandırması*# Kuvvetli Rüzgar* 10,8-17,1 m/sec ~ 22-33 knot ~ 39-61 km/saat# Fırtına* 17,2-20,7 m/sec ~ 34-40 knot ~ 62-74 km/saat# Kuvvetli Fırtına* 20,8-24,4 m/sec ~ 41-47 knot ~ 75-88 km/saat# Tam Fırtına* 24,5–28,4 m/sec ~ 48-55 knot ~ 89-102 km/saat</hadiseSinif>
+<linkler><a target="new" href="http://mgm.gov.tr/site/yardim2.aspx?=BOFOR">Bofor Iskalası</a></linkler>
+<GenelDurum/>
+<ekDosyaUzanti/>
+<guncel>true</guncel>
+<guncel_no>0</guncel_no>
+<id>11814</id>
+</Table>
+<Table>
+<SeriNo>22010597</SeriNo>
+<eskiyeni>y</eskiyeni>
+<ihbarTipi>1</ihbarTipi>
+<ihbarT>Meteorolojik Uyarı</ihbarT>
+<merkez>Meteoroloji Genel Müdürlüğü Analiz ve Tahmin Merkezi</merkez>
+<IPno>192.168.20.99</IPno>
+<hazirlayan>Murat Acar</hazirlayan>
+<ihbarNo>597</ihbarNo>
+<ihbarKodu/>
+<yil>22</yil>
+<ay>12</ay>
+<gun>25</gun>
+<kayitTarih>2212251330</kayitTarih>
+<basTarih>202212251330</basTarih>
+<sonTarih>202212270600</sonTarih>
+<GenelBaslik>Güneydoğu Kesimlerde Beklenen Kuvvetli Yağışlara Dikkat!</GenelBaslik>
+<hadiseC>1</hadiseC>
+<hadiseCinsi>Sağanak Yağış</hadiseCinsi>
+<hadiseSiddeti>Kuvvetli Yağış</hadiseSiddeti>
+<hadiseYer>26.12.2022 Pazartesi günü Hatay, Kilis, Gaziantep, Adıyaman ve Şanlıurfa çevreleri ile Mardin'in ve Diyarbakır'ın batı kesimlerinde beklenen yağmur ve sağanak şeklindeki yağışların genellikle kuvvetli (21-50 kg/m2), Şanlıurfa'nın batısı, Gaziantep'in doğusu ve Kilis çevrelerinde zaman zaman çok kuvvetli (40-75 kg/m2) olacağı tahmin ediliyor. Yağışların Adıyaman'ın kuzeyinde ve yüksek kesimlerinde, Malatya'nın güneyinin yüksek kesimlerinde ve Gaziantep'in yüksek kesimlerinde (800-1000 metre ve üzeri rakımlı yerlerde) kuvvetli karla karışık yağmur ve kar şeklinde olması bekleniyor. Sel, su baskını, Ulaşımda aksamalar, buzlanma ve don olayı gibi olumsuzluklara karşı dikkatli ve tedbirli olunmalıdır.</hadiseYer>
+<hadiseZaman>26.12.2022 00:00-27.12.2022 06:00</hadiseZaman>
+<riskler>Ani Sel - Su Baskını - Sel - Buzlanma - Don Olayı - Ulaşımda Aksamalar</riskler>
+<hadiseSinif>Yağış Şiddeti Sınıflandırması*Not: 12 Saatlik periyotta miktara bağlı değerlendirme yapılmış ve bölgeler arası topografik farklılıklar dikkate alınmadan sınıflandırılmıştır. # Hafif Yağış* 1-5 kg/m²# Orta Kuvvette Yağış* 6-20 kg/m²# Kuvvetli Yağış* 21-50 kg/m²# Çok Kuvvetli Yağış* 51-75 kg/m²# Şiddetli Yağış* 76-100 kg/m²# Aşırı yağış* 100 kg/m² üzeri</hadiseSinif>
+<linkler><a target="new" href="http://mgm.gov.tr/site/yardim2.aspx?=SEL">Sellerden Korunma Yöntemleri</a> | <a target="new" href="http://mgm.gov.tr/site/yardim2.aspx?=DON">Don Tehlikesi ve Korunma Yöntemleri</a></linkler>
+<GenelDurum/>
+<ekDosyaUzanti>31|79|27|02|63|47|21</ekDosyaUzanti>
+<guncel>true</guncel>
+<guncel_no>0</guncel_no>
+<id>11815</id>
+</Table>
+<Table>
+<SeriNo>22010598</SeriNo>
+<eskiyeni>y</eskiyeni>
+<ihbarTipi>1</ihbarTipi>
+<ihbarT>Meteorolojik Uyarı</ihbarT>
+<merkez>Meteoroloji Genel Müdürlüğü Analiz ve Tahmin Merkezi</merkez>
+<IPno>192.168.20.99</IPno>
+<hazirlayan>Murat Acar</hazirlayan>
+<ihbarNo>598</ihbarNo>
+<ihbarKodu/>
+<yil>22</yil>
+<ay>12</ay>
+<gun>25</gun>
+<kayitTarih>2212251446</kayitTarih>
+<basTarih>202212251446</basTarih>
+<sonTarih>202212271200</sonTarih>
+<GenelBaslik>Akdeniz Bölgesi'nin İç Kesimlerinde Kuvvetli Rüzgar ve Fırtına Bekleniyor!</GenelBaslik>
+<hadiseC>5</hadiseC>
+<hadiseCinsi>Fırtına</hadiseCinsi>
+<hadiseSiddeti>Fırtına</hadiseSiddeti>
+<hadiseYer>26.12.2022 Pazartesi günü rüzgarın, Akdeniz Bölgesinin iç kesimlerinde (Toroslar) kuzey yönlerden kuvvetli ve fırtına (50-80 km/saat), yüksek kesimlerde zaman zaman hamleli kuvvetli fırtına (80-90 km/saat) şeklinde eseceği tahmin ediliyor. Kuvvetli rüzgar ve fırtınanın meydana getirebileceği ağaç ve direk devrilmesi, çatı uçması ve ulaşımda aksamalar gibi olumsuzluklara karşı dikkatli ve tedbirli olunmalıdır. </hadiseYer>
+<hadiseZaman>26.12.2022 00:00-27.12.2022 12:00</hadiseZaman>
+<riskler>Çatı Uçması - Ağaç veya Direklerin Devrilmesi - Ulaşımda Aksamalar</riskler>
+<hadiseSinif>Rüzgar Hızı Sınıflandırması*# Kuvvetli Rüzgar* 10,8-17,1 m/sec ~ 22-33 knot ~ 39-61 km/saat# Fırtına* 17,2-20,7 m/sec ~ 34-40 knot ~ 62-74 km/saat# Kuvvetli Fırtına* 20,8-24,4 m/sec ~ 41-47 knot ~ 75-88 km/saat# Tam Fırtına* 24,5–28,4 m/sec ~ 48-55 knot ~ 89-102 km/saat</hadiseSinif>
+<linkler><a target="new" href="http://mgm.gov.tr/site/yardim2.aspx?=RUZGAR">Fırtınadan Korunma Yöntemleri</a></linkler>
+<GenelDurum/>
+<ekDosyaUzanti>07|33|01|80|46</ekDosyaUzanti>
+<guncel>true</guncel>
+<guncel_no>0</guncel_no>
+<id>11816</id>
+</Table>
+</UyariSet>
